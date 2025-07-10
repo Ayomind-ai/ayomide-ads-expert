@@ -16,7 +16,7 @@
       flex-direction: column;
       padding: 2rem;
     }
-    .home { background: #007bff; color: white; }
+    .home { background: #007bff; color: white; text-align: center; }
     .about { background: #f8f9fa; color: #000; text-align: center; }
     .services { background: #343a40; color: white; }
     .contact { background: #ffc107; color: #000; }
@@ -29,6 +29,7 @@
   <section class="home">
     <h1>Welcome to Ayomide's Ads Service</h1>
     <p>Powerful Facebook and Instagram ads to grow your business.</p>
+    <img src="White%20and%20Blue%20Modern%20Business%20Instagram%20Post%20(2).png" alt="Flyer" class="flyer">
   </section>
 
   <section class="about">
@@ -48,7 +49,6 @@
   <section class="services">
     <h2>My Services</h2>
     <p>I run powerful Facebook & Instagram Ads for physical products. Fast results, targeted reach, and affordable ad setup.</p>
-    <img src="White%20and%20Blue%20Modern%20Business%20Instagram%20Post%20(2).png" alt="Flyer" class="flyer">
   </section>
 
   <section class="contact">
