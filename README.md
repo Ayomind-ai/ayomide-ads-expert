@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -116,79 +115,5 @@
   </footer>
 
   <a class="whatsapp" href="https://wa.me/2348167307310" target="_blank">Chat on WhatsApp</a>
-</body>
-</html>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Ayomide Ads Expert</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f0f8ff;
-      margin: 0;
-      padding: 0;
-      color: #1e1e1e;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-      text-align: center;
-    }
-    img {
-      max-width: 100%;
-      border-radius: 12px;
-    }
-    h1 {
-      color: #003366;
-    }
-    .button {
-      background-color: #007bff;
-      color: white;
-      padding: 15px 30px;
-      text-decoration: none;
-      border-radius: 8px;
-      display: inline-block;
-      margin-top: 20px;
-      font-size: 16px;
-      border: none;
-      cursor: pointer;
-    }
-    input, textarea {
-      width: 100%;
-      padding: 10px;
-      margin-top: 10px;
-      font-size: 14px;
-    }
-    form {
-      margin-top: 40px;
-      text-align: left;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>Ayomide - Facebook Ads Expert</h1>
-    <p>I run powerful Facebook & Instagram ads for physical products.</p>
-    <img src="flyer.png" alt="Ayomide Ads Flyer"/>
-    <p>Your success is our mission: Fast Results, Targeted Reach, Affordable Ad Setup</p>
-    <a class="button" href="https://wa.me/2348167307310" target="_blank">📲 DM Me to Start Your Ad Today</a>
-    <div class="contact">Contact: +2348167307310</div>
-
-    <h2>Contact Me</h2>
-    <form action="https://formsubmit.co/sodiqakande67@gmail.com" method="POST">
-      <input type="hidden" name="_captcha" value="false">
-      <input type="hidden" name="_next" value="https://ayomind-ai.github.io/ayomide-ads-expert/thank-you.html">
-      <input type="text" name="name" placeholder="Your Name" required><br>
-      <input type="email" name="email" placeholder="Your Email" required><br>
-      <textarea name="message" rows="4" placeholder="Your Message" required></textarea><br>
-      <button type="submit" class="button">Send Message</button>
-    </form>
-  </div>
 </body>
 </html>
