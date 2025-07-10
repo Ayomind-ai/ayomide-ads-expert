@@ -1,4 +1,61 @@
-<!DOCTYPE html><html lang="en"><head>  <meta charset="UTF-8" />  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>  <title>Ayomide Ads Expert</title>  <style>    body { font-family: Arial, sans-serif; background: #f4faff; margin: 0; padding: 0; color: #111; }    header, nav { background: #007bff; color: white; padding: 15px; text-align: center; }    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }    .container { max-width: 800px; margin: auto; padding: 20px; }    .button { background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 6px; display: inline-block; margin-top: 20px; }    footer { text-align: center; padding: 20px; font-size: 14px; background: #eef2f8; margin-top: 40px; }    img { max-width: 100%; border-radius: 12px; }  </style></head><body><header>  <h1>Ayomide Ads Expert</h1>  <nav>    <a href="index.html">Home</a>    <a href="about.html">About</a>    <a href="services.html">Services</a>    <a href="contact.html">Contact</a>  </nav></header><div class="container"><h2>About Me</h2><p>Are you looking for a result-driven Facebook Ads Expert? I am Akande Sodiq, with over 2 years of experience in media buying, I am a passionate and motivated market promoter with a keen interest in brand awareness and consumer engagement. My goal is to help businesses connect with their audience through effective promotional strategies. I am eager to apply my skills and continuously learn to drive impactful marketing campaigns.</p><p>As a highly skilled and results-driven market promoter, I specialize in creating compelling brand experiences that captivate audiences and drive engagement. With a strong foundation in strategic marketing, customer interaction, and promotional campaigns, I have successfully helped brands enhance visibility, increase customer loyalty, and achieve measurable sales growth.</p><p>Here's what I can do for you:</p><ul>  <li>✅ Brand Activation & Awareness</li>  <li>✅ Event Management & Product Launches</li>  <li>✅ Social Media & Digital Promotions</li>  <li>✅ Customer Engagement & Lead Generation</li>  <li>✅ Sales Growth Strategies</li></ul></div><footer>  &copy; 2025 Ayomide Ads Expert. All rights reserved.</footer></body></html>
-‎contact.htmlCopy file name to clipboard+48Lines changed: 48 additions & 0 deletionsOriginal file line numberDiff line numberDiff line change@@ -0,0 +1,48 @@<!DOCTYPE html><html lang="en"><head>  <meta charset="UTF-8" />  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>  <title>Ayomide Ads Expert</title>  <style>    body { font-family: Arial, sans-serif; background: #f4faff; margin: 0; padding: 0; color: #111; }    header, nav { background: #007bff; color: white; padding: 15px; text-align: center; }    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }    .container { max-width: 800px; margin: auto; padding: 20px; }    .button { background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 6px; display: inline-block; margin-top: 20px; }    footer { text-align: center; padding: 20px; font-size: 14px; background: #eef2f8; margin-top: 40px; }    img { max-width: 100%; border-radius: 12px; }  </style></head><body><header>  <h1>Ayomide Ads Expert</h1>  <nav>    <a href="index.html">Home</a>    <a href="about.html">About</a>    <a href="services.html">Services</a>    <a href="contact.html">Contact</a>  </nav></header><div class="container"><h2>Contact Me</h2><p>Have questions or ready to get started? Fill the form below or contact me directly.</p><form action="https://formsubmit.co/sodiqakande67@gmail.com" method="POST">  <input type="hidden" name="_captcha" value="false">  <input type="text" name="name" placeholder="Your Name" required><br><br>  <input type="email" name="email" placeholder="Your Email" required><br><br>  <textarea name="message" rows="5" placeholder="Your Message" required></textarea><br><br>  <button type="submit" class="button">Send Message</button></form><p>📞 08167307310</p><p>📧 sodiqakande67@gmail.com</p><a class="button" href="https://wa.me/2348167307310" target="_blank">💬 Chat on WhatsApp</a></div><footer>  &copy; 2025 Ayomide Ads Expert. All rights reserved.</footer></body></html>
-‎index.htmlCopy file name to clipboardExpand all lines: index.html+27-59Lines changed: 27 additions & 59 deletionsOriginal file line numberDiff line numberDiff line change@@ -6,68 +6,36 @@  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>  <title>Ayomide Ads Expert</title>  <style>    body {      font-family: Arial, sans-serif;      background: #f0f8ff;      margin: 0;      padding: 0;      color: #1e1e1e;    }    .container {      max-width: 800px;      margin: auto;      padding: 20px;      text-align: center;    }    img {      max-width: 100%;      border-radius: 12px;    }    h1 {      color: #003366;    }    .button {      background-color: #007bff;      color: white;      padding: 15px 30px;      text-decoration: none;      border-radius: 8px;      display: inline-block;      margin-top: 20px;      font-size: 16px;      border: none;      cursor: pointer;    }    input, textarea {      width: 100%;      padding: 10px;      margin-top: 10px;      font-size: 14px;    }    form {      margin-top: 40px;      text-align: left;    }    body { font-family: Arial, sans-serif; background: #f4faff; margin: 0; padding: 0; color: #111; }    header, nav { background: #007bff; color: white; padding: 15px; text-align: center; }    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }    .container { max-width: 800px; margin: auto; padding: 20px; }    .button { background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 6px; display: inline-block; margin-top: 20px; }    footer { text-align: center; padding: 20px; font-size: 14px; background: #eef2f8; margin-top: 40px; }    img { max-width: 100%; border-radius: 12px; }  </style></head><body>  <div class="container">    <h1>Ayomide - Facebook Ads Expert</h1>    <p>I run powerful Facebook & Instagram ads for physical products.</p>    <img src="flyer.png" alt="Ayomide Ads Flyer"/>    <p>Your success is our mission: Fast Results, Targeted Reach, Affordable Ad Setup</p>    <a class="button" href="https://wa.me/2348167307310" target="_blank">📲 DM Me to Start Your Ad Today</a>    <div class="contact">Contact: +2348167307310</div><header>  <h1>Ayomide Ads Expert</h1>  <nav>    <a href="index.html">Home</a>    <a href="about.html">About</a>    <a href="services.html">Services</a>    <a href="contact.html">Contact</a>  </nav></header><div class="container">    <h2>Contact Me</h2>    <form action="https://formsubmit.co/sodiqakande67@gmail.com" method="POST">      <input type="hidden" name="_captcha" value="false">      <input type="hidden" name="_next" value="https://ayomind-ai.github.io/ayomide-ads-expert/thank-you.html">      <input type="text" name="name" placeholder="Your Name" required><br>      <input type="email" name="email" placeholder="Your Email" required><br>      <textarea name="message" rows="4" placeholder="Your Message" required></textarea><br>      <button type="submit" class="button">Send Message</button>    </form>  </div><h2>Boost Your Business with Facebook Ads</h2><p>I run powerful Facebook & Instagram ads for physical products and services.</p><img src="flyer.png" alt="Flyer"><p>Reach more customers, increase brand awareness, and grow your business today!</p><a class="button" href="https://wa.me/2348167307310" target="_blank">📲 Book Now on WhatsApp</a></div><footer>  &copy; 2025 Ayomide Ads Expert. All rights reserved.</footer></body></html>
-‎services.htmlCopy file name to clipboard+45Lines changed: 45 additions & 0 deletionsOriginal file line numberDiff line numberDiff line change@@ -0,0 +1,45 @@<!DOCTYPE html><html lang="en"><head>  <meta charset="UTF-8" />  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>  <title>Ayomide Ads Expert</title>  <style>    body { font-family: Arial, sans-serif; background: #f4faff; margin: 0; padding: 0; color: #111; }    header, nav { background: #007bff; color: white; padding: 15px; text-align: center; }    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }    .container { max-width: 800px; margin: auto; padding: 20px; }    .button { background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 6px; display: inline-block; margin-top: 20px; }    footer { text-align: center; padding: 20px; font-size: 14px; background: #eef2f8; margin-top: 40px; }    img { max-width: 100%; border-radius: 12px; }  </style></head><body><header>  <h1>Ayomide Ads Expert</h1>  <nav>    <a href="index.html">Home</a>    <a href="about.html">About</a>    <a href="services.html">Services</a>    <a href="contact.html">Contact</a>  </nav></header><div class="container"><h2>Services I Offer</h2><ul>  <li><strong>Brand Activation & Awareness:</strong> Get your brand noticed fast and effectively.</li>  <li><strong>Event Management & Product Launches:</strong> Run ads to fill your events or push your latest products.</li>  <li><strong>Social Media & Digital Promotions:</strong> Promote your brand across Facebook and Instagram.</li>  <li><strong>Customer Engagement & Lead Generation:</strong> Attract the right people to your offer.</li>  <li><strong>Sales Growth Strategies:</strong> Ads that actually sell and bring results.</li></ul><a class="button" href="contact.html">📩 Contact Me</a></div><footer>  &copy; 2025 Ayomide Ads Expert. All rights reserved.</footer></body></html>    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ayomide - Facebook Ads Expert</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: Arial, sans-serif; overflow-x: hidden; scroll-snap-type: y mandatory; height: 100vh; }
+    section {
+      height: 100vh;
+      scroll-snap-align: start;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      padding: 2rem;
+    }
+    .home { background: #007bff; color: white; }
+    .about { background: #f8f9fa; color: #000; text-align: center; }
+    .services { background: #343a40; color: white; }
+    .contact { background: #ffc107; color: #000; }
+    img.flyer { max-width: 90%; height: auto; border-radius: 12px; margin-top: 20px; box-shadow: 0 5px 20px rgba(0,0,0,0.3); }
+    h1, h2 { margin-bottom: 1rem; }
+    p { max-width: 700px; margin-bottom: 1rem; line-height: 1.6; }
+  </style>
+</head>
+<body>
+  <section class="home">
+    <h1>Welcome to Ayomide's Ads Service</h1>
+    <p>Powerful Facebook and Instagram ads to grow your business.</p>
+  </section>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>Are you looking for a result-driven Facebook Ads Expert? I am Akande Sodiq, with over 2 years of experience in media buying, I am a passionate and motivated market promoter with a keen interest in brand awareness and consumer engagement. My goal is to help businesses connect with their audience through effective promotional strategies. I am eager to apply my skills and continuously learn to drive impactful marketing campaigns.</p>
+    <p>As a highly skilled and results-driven market promoter, I specialize in creating compelling brand experiences that captivate audiences and drive engagement. With a strong foundation in strategic marketing, customer interaction, and promotional campaigns, I have successfully helped brands enhance visibility, increase customer loyalty, and achieve measurable sales growth.</p>
+    <p>
+      Here's what I can do for you:<br>
+      ✅ Brand Activation & Awareness<br>
+      ✅ Event Management & Product Launches<br>
+      ✅ Social Media & Digital Promotions<br>
+      ✅ Customer Engagement & Lead Generation<br>
+      ✅ Sales Growth Strategies
+    </p>
+  </section>
+
+  <section class="services">
+    <h2>My Services</h2>
+    <p>I run powerful Facebook & Instagram Ads for physical products. Fast results, targeted reach, and affordable ad setup.</p>
+    <img src="White%20and%20Blue%20Modern%20Business%20Instagram%20Post%20(2).png" alt="Flyer" class="flyer">
+  </section>
+
+  <section class="contact">
+    <h2>Contact Me</h2>
+    <p>Start your next successful campaign today!</p>
+    <p>Phone: <strong>+2348167307310</strong></p>
+    <p>Email: <strong>youremail@example.com</strong></p>
+  </section>
+</body>
+</html>
